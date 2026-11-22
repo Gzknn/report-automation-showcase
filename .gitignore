@@ -1,0 +1,8 @@
+# Veri ve çıktı dosyaları repoya girmez (örnekler demo ile üretilir)
+*.xlsx
+*.xls
+*.csv
+*.cache.pkl
+__pycache__/
+.ipynb_checkpoints/
+.env
